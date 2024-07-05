@@ -4,7 +4,7 @@ Travellers is a travel website designed to inspire and assist you on your journe
 
 ### Get Started
 
-1. **Unzip and Explore**: Download the provided .zip file, extract its contents, and open `index.html` in your preferred web browser to experience Travellers firsthand. [Explore the code](https://github.com/Lavanya6377/Adventure-tourist-website/blob/master/index.html)
+1. **Explore**: Extract its contents, and open `index.html` in your preferred web browser to experience Travellers firsthand. [Explore the code](https://github.com/Lavanya6377/Adventure-tourist-website/blob/master/index.html)
    
 2. **Live Demo**: For a quick preview, visit our live demo on [GitHub](https://github.com/Lavanya6377/Adventure-tourist-website).
 
