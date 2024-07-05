@@ -1,8 +1,14 @@
-Welcome to Travellers, a travel website crafted to help you to embark on extraordinary journeys. We use the power of HTML, CSS, and a pinch of JavaScript to create a visually captivating and user-friendly experience.
-Travellers is an open-source project; we welcome you to explore its codebase and contribute irrespective of whether you're a seasoned developer or just a beginner. Travellers serves as a valuable learning tool to hone your skills and expand your creativity
+## Welcome to Travellers
 
--Unzip and Explore: Download the provided .zip file, extract the contents, and open index.html https://github.com/Lavanya6377/Adventure-tourist-website/blob/master/index.html in the web browser of choice to experience Travellers firsthand. -Live Demo: Alternatively, get a glimpse of Travellers in action by visiting our live demo at my repository https://github.com/Lavanya6377/Adventure-tourist-website 
+Travellers is a travel website designed to inspire and assist you on your journey to extraordinary destinations. Utilizing HTML, CSS, and a touch of JavaScript, we create a visually stunning and user-friendly experience. As an open-source project, we invite contributions from everyone, whether you're an experienced developer or just starting out. Travellers is a valuable learning tool to enhance your skills and unleash your creativity.
 
+### Get Started
+
+1. **Unzip and Explore**: Download the provided .zip file, extract its contents, and open `index.html` in your preferred web browser to experience Travellers firsthand. [Explore the code](https://github.com/Lavanya6377/Adventure-tourist-website/blob/master/index.html)
+   
+2. **Live Demo**: For a quick preview, visit our live demo on [GitHub](https://github.com/Lavanya6377/Adventure-tourist-website).
+
+Happy travels and happy coding!
 
 ![Screenshot 2024-07-05 215155](https://github.com/Lavanya6377/Adventure-tourist-website/assets/122287019/1af49ed0-b762-4499-a38c-e23afbc4f6e7)
 ![image](https://github.com/Lavanya6377/Adventure-tourist-website/assets/122287019/fe11eb27-11da-427f-becc-e185440afd61)
