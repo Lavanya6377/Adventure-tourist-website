@@ -8,7 +8,7 @@ Travellers is a travel website designed to inspire and assist you on your journe
    
 2. **Live Demo**: For a quick preview, visit our live demo on [GitHub](https://github.com/Lavanya6377/Adventure-tourist-website).
 
-Happy travels and happy coding!
+Happy travels!
 
 ![Screenshot 2024-07-05 215155](https://github.com/Lavanya6377/Adventure-tourist-website/assets/122287019/1af49ed0-b762-4499-a38c-e23afbc4f6e7)
 ![image](https://github.com/Lavanya6377/Adventure-tourist-website/assets/122287019/fe11eb27-11da-427f-becc-e185440afd61)
